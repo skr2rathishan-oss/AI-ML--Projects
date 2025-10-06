@@ -26,7 +26,7 @@ This repository contains projects ranging from beginner-friendly experiments to 
 
 | Project Name | Description | Link / Notebook |
 |--------------|-------------|----------------|
-| Project 1 | Brief overview of what this project does | [notebook.ipynb](Project-1/notebook.ipynb) |
+| Project 1 | 📨 Spam Classification  | [notebook.ipynb](Project-1/notebook.ipynb) |
 | Project 2 | Brief overview of what this project does | [notebook.ipynb](Project-2/notebook.ipynb) |
 | Project 3 | Brief overview of what this project does | [notebook.ipynb](Project-3/notebook.ipynb) |
 
@@ -37,4 +37,4 @@ This repository contains projects ranging from beginner-friendly experiments to 
 ## ⚡ How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/AI-ML-Projects.git
+https://github.com/skr2rathishan-oss/AI-ML--Projects.git
