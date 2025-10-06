@@ -24,11 +24,11 @@ This repository contains projects ranging from beginner-friendly experiments to 
 
 ## 🗂️ Projects List
 
-| Project Name | Description | Link / Notebook |
-|--------------|-------------|----------------|
-| Project 1 | 📨 Spam Classification  | [notebook.ipynb](SpamClassification (1).ipynb) |
-| Project 2 | Brief overview of what this project does | [notebook.ipynb](Project-2/notebook.ipynb) |
-| Project 3 | Brief overview of what this project does | [notebook.ipynb](Project-3/notebook.ipynb) |
+| Project Name | Description | 
+|--------------|-------------|
+| Project 1 | 📨 Spam Classification  |
+| Project 2 | Brief overview of what this project does | 
+| Project 3 | Brief overview of what this project does |
 
 
 
