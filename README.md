@@ -27,13 +27,14 @@ This repository contains projects ranging from beginner-friendly experiments to 
 | Project Name | Description | 
 |--------------|-------------|
 | Project 1 | 📨 Spam Classification  |
-| Project 2 | Brief overview of what this project does | 
+| Project 2 | 📱 Mobile Price Prediction | 
 | Project 3 | Brief overview of what this project does |
 
 
 
 ---
-
+Google Drive link:
+https://drive.google.com/drive/folders/1PH1ripMQaYghBtfyc_uodSzSx2bx_3Bd?usp=sharing
 ## ⚡ How to Run
 1. Clone this repository:
 ```bash
