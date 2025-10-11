@@ -28,7 +28,7 @@ This repository contains projects ranging from beginner-friendly experiments to 
 |--------------|-------------|
 | Project 1 | 📨 Spam Classification  |
 | Project 2 | 📱 Mobile Price Prediction | 
-| Project 3 | Brief overview of what this project does |
+| Project 3 | 😡 Sentiment_Analysis |
 
 
 
